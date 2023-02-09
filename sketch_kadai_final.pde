@@ -10,7 +10,6 @@ float theta4; // アーム4の角度
 
 void setup() {
   size(800, 800);
-  strokeWeight(4);
 }
 
 void draw() {
