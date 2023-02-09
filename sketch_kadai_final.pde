@@ -25,7 +25,7 @@ void draw() {
   fill(150);
   ellipse(x0, y0, 2*abs(l1+l2), 2*abs(l1+l2)); // アームの最大距離の円を描く
   
-  // ペダルの軌跡
+  // ペダルの可動範囲
   noStroke();
   fill(180);
   ellipse(470, 570, 170, 170);
